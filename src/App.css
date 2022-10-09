@@ -1,0 +1,55 @@
+.container{
+	margin: 10px;
+	padding: 30px;
+	align-items: center;
+	justify-content: center;
+}
+.col-md-8{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#logo{
+	font-size: 10rem;
+    color: blue;
+    text-shadow: -20px -16px 4px brown;
+    box-shadow: -26px -9px 11px black;
+    border-radius: 41px;
+}
+.header-left h1{
+	color: blue;
+    margin: 0;
+    border-bottom: 2px solid blue;
+}
+.header-left p{
+	margin: 0;
+}
+.col-md-4{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+input{
+    width: 70%;
+}
+.col-r{
+	display: grid;
+    justify-content: end;
+    align-items: center;
+}
+.row2 h4 {
+	border-bottom: 2px solid black;
+}
+.col-r{
+	display: grid;
+    justify-content: end;
+    align-items: center;
+}
+.row2 h4 {
+	border-bottom: 2px solid black;
+}
+.table, table, thead, tr, th, td{
+	width: auto;
+	border: 2px solid black;
+}
